@@ -79,6 +79,8 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
     </td>
   </tr>
 
+  <tr><td colspan="2"><hr></td></tr>
+
   <!-- FILA 3: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/secret.png" alt="Secret List" width="100%"></td>
@@ -96,6 +98,8 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
     </td>
   </tr>
 
+  <tr><td colspan="2"><hr></td></tr>
+  
   <!-- FILA 4: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/secret_detail.png" alt="Secret Detail" width="100%"></td>
@@ -113,6 +117,8 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
     </td>
   </tr>
 
+  <tr><td colspan="2"><hr></td></tr>
+  
   <!-- FILA 5: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/audit_log.png" alt="Audit Log" width="100%"></td>
@@ -129,6 +135,8 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Session timeout controls • Master password rotation • Duress and kill switch configuration
     </td>
   </tr>
+
+  <tr><td colspan="2"><hr></td></tr>
 
   <!-- FILA 6: IMÁGENES (Impar) -->
   <tr>
