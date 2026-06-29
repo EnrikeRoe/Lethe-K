@@ -35,37 +35,55 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 
 ---
 
-## Screenshots
-
-<details>
-<summary>📸 View screenshots (11)</summary>
-<br>
-
 <table>
-  <tr>
-    <td align="center"><img src="assets/login.png" alt="Login" width="280"/><br/><sub>Login</sub></td>
-    <td align="center"><img src="assets/overview.png" alt="Overview" width="280"/><br/><sub>Overview</sub></td>
-    <td align="center"><img src="assets/new_project.png" alt="New Project" width="280"/><br/><sub>New Project</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/project.png" alt="Project View" width="280"/><br/><sub>Project View</sub></td>
-    <td align="center"><img src="assets/secret.png" alt="Secret List" width="280"/><br/><sub>Secret List</sub></td>
-    <td align="center"><img src="assets/project_secret.png" alt="Project Secret" width="280"/><br/><sub>Project Detail</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/secret_detail.png" alt="Secret Detail" width="280"/><br/><sub>Secret Detail</sub></td>
-    <td align="center"><img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="280"/><br/><sub>Hash Analyzer</sub></td>
-    <td align="center"><img src="assets/audit_log.png" alt="Audit Log" width="280"/><br/><sub>Audit Log</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/settings.png" alt="Settings" width="280"/><br/><sub>Settings</sub></td>
-    <td align="center"><img src="assets/settings_dangerzone.png" alt="Danger Zone" width="280"/><br/><sub>Danger Zone</sub></td>
-    <td></td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="assets/login.png">
+<img src="assets/login.png" width="100%">
+</a>
+
+<br>
+<sub><b>Login</b></sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="assets/overview.png">
+<img src="assets/overview.png" width="100%">
+</a>
+
+<br>
+<sub><b>Overview</b></sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<a href="assets/new_project.png">
+<img src="assets/new_project.png" width="100%">
+</a>
+
+<br>
+<sub><b>New Project</b></sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="assets/project.png">
+<img src="assets/project.png" width="100%">
+</a>
+
+<br>
+<sub><b>Project</b></sub>
+
+</td>
+</tr>
 </table>
-
-</details>
-
 ---
 
 ## Architecture
