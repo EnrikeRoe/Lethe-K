@@ -40,6 +40,23 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 <details>
 <summary><strong>👉 Click here to view screenshots (11)</strong></summary>
 
+| | |
+| :---: | :---: |
+| ![Login](assets/login.png)<br><br><kbd>🔐 Login</kbd> | ![Overview](assets/overview.png)<br><br><kbd>📊 Overview</kbd> |
+| ![New Project](assets/new_project.png)<br><br><kbd>✨ New Project</kbd> | ![Project View](assets/project.png)<br><br><kbd>📁 Project View</kbd> |
+| ![Secret List](assets/secret.png)<br><br><kbd>🔑 Secret List</kbd> | ![Project Detail](assets/project_secret.png)<br><br><kbd>📄 Project Detail</kbd> |
+| ![Secret Detail](assets/secret_detail.png)<br><br><kbd>🔍 Secret Detail</kbd> | ![Hash Analyzer](assets/hash_analyzer.png)<br><br><kbd>⚡ Hash Analyzer</kbd> |
+| ![Audit Log](assets/audit_log.png)<br><br><kbd>📜 Audit Log</kbd> | ![Settings](assets/settings.png)<br><br><kbd>⚙️ Settings</kbd> |
+| ![Danger Zone](assets/settings_dangerzone.png)<br><br><kbd>🚨 Danger Zone</kbd> | |
+
+</details>
+
+
+## 📸 Screenshots
+
+<details>
+<summary><strong>👉 Click here to view screenshots (11)</strong></summary>
+
 <br>
 
 <table width="100%">
