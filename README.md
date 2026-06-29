@@ -43,111 +43,108 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 <br>
 
 <table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="assets/login.png" alt="Login" width="100%">
-  <br><br>
-  <kbd>🔐 Login</kbd>
-  <br>
-  <sub>Secure terminal access · Master password validation · AES-256-GCM</sub>
-</td>
+  <!-- FILA 1: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/login.png" alt="Login" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/overview.jpg" alt="Overview" width="100%"></td>
+  </tr>
+  <!-- FILA 1: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>🔐 Login</kbd><br>
+      <sub>Secure terminal access • Master password validation • AES-256-GCM</sub>
+    </td>
+    <td align="center">
+      <kbd>📊 Overview</kbd><br>
+      <sub>Operational status dashboard • Quick action menu • Recent activity feed</sub>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-  <img src="assets/overview.png" alt="Overview" width="100%">
-  <br><br>
-  <kbd>📊 Overview</kbd>
-  <br>
-  <sub>Operational status dashboard · Quick action menu · Recent activity feed</sub>
-</td>
-</tr>
+  <!-- FILA 2: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/new_project.png" alt="New Project" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/project.png" alt="Project View" width="100%"></td>
+  </tr>
+  <!-- FILA 2: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>✨ New Project</kbd><br>
+      <sub>Engagement vault initialization • Client, type and scope definition</sub>
+    </td>
+    <td align="center">
+      <kbd>📁 Project View</kbd><br>
+      <sub>Isolated workspace • Cryptographic asset inventory • Zero-knowledge pool</sub>
+    </td>
+  </tr>
 
-<tr>
-<td width="50%" align="center">
-  <img src="assets/new_project.png" alt="New Project" width="100%">
-  <br><br>
-  <kbd>✨ New Project</kbd>
-  <br>
-  <sub>Engagement vault initialization · Client, type and scope definition</sub>
-</td>
+  <!-- FILA 3: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/secret.png" alt="Secret List" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/project_secret.png" alt="Project Detail" width="100%"></td>
+  </tr>
+  <!-- FILA 3: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>🔑 Secret List</kbd><br>
+      <sub>Multi-field credential registry • Custom tagging • Confidentiality scoping</sub>
+    </td>
+    <td align="center">
+      <kbd>📄 Project Detail</kbd><br>
+      <sub>Granular asset management • Access control metrics • Live history tracking</sub>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-  <img src="assets/project.png" alt="Project View" width="100%">
-  <br><br>
-  <kbd>📁 Project View</kbd>
-  <br>
-  <sub>Isolated workspace · Cryptographic asset inventory · Zero-knowledge pool</sub>
-</td>
-</tr>
+  <!-- FILA 4: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/secret_detail.png" alt="Secret Detail" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="100%"></td>
+  </tr>
+  <!-- FILA 4: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>🔍 Secret Detail</kbd><br>
+      <sub>Secure credential decryption modal • Masked fields • Access telemetry</sub>
+    </td>
+    <td align="center">
+      <kbd>⚡ Hash Analyzer</kbd><br>
+      <sub>Offline cryptographic identifier • 14+ supported hash types • Instant parsing</sub>
+    </td>
+  </tr>
 
-<tr>
-<td width="50%" align="center">
-  <img src="assets/secret.png" alt="Secret List" width="100%">
-  <br><br>
-  <kbd>🔑 Secret List</kbd>
-  <br>
-  <sub>Multi-field credential registry · Custom tagging · Confidentiality scoping</sub>
-</td>
+  <!-- FILA 5: IMÁGENES -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/audit_log.png" alt="Audit Log" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/settings.png" alt="Settings" width="100%"></td>
+  </tr>
+  <!-- FILA 5: TEXTOS -->
+  <tr>
+    <td align="center">
+      <kbd>📜 Audit Log</kbd><br>
+      <sub>Immutable live ledger feed • Security event logging • Exportable telemetry</sub>
+    </td>
+    <td align="center">
+      <kbd>⚙️ Settings</kbd><br>
+      <sub>Global system orchestration • Vault keys rotation • Core node variables</sub>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-  <img src="assets/project_secret.png" alt="Project Detail" width="100%">
-  <br><br>
-  <kbd>📄 Project Detail</kbd>
-  <br>
-  <sub>Granular asset management · Access control metrics · Live history tracking</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="assets/secret_detail.png" alt="Secret Detail" width="100%">
-  <br><br>
-  <kbd>🔍 Secret Detail</kbd>
-  <br>
-  <sub>Secure credential decryption modal · Masked fields · Access telemetry</sub>
-</td>
-
-<td width="50%" align="center">
-  <img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="100%">
-  <br><br>
-  <kbd>⚡ Hash Analyzer</kbd>
-  <br>
-  <sub>Offline cryptographic identifier · 14+ supported hash types · Instant parsing</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="assets/audit_log.png" alt="Audit Log" width="100%">
-  <br><br>
-  <kbd>📜 Audit Log</kbd>
-  <br>
-  <sub>Immutable live ledger feed · Security event logging · Exportable telemetry</sub>
-</td>
-
-<td width="50%" align="center">
-  <img src="assets/settings.png" alt="Settings" width="100%">
-  <br><br>
-  <kbd>⚙️ Settings</kbd>
-  <br>
-  <sub>Global system orchestration · Vault keys rotation · Core node variables</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%">
-  <br><br>
-  <kbd>🚨 Danger Zone</kbd>
-  <br>
-  <sub>Duress protocol configuration · Multi-level session kill switches · Vault wiping</sub>
-</td>
-
-<td></td>
-</tr>
-
+  <!-- FILA 6: IMÁGENES (Impar) -->
+  <tr>
+    <td width="50%" align="center"><img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%"></td>
+    <td><!-- Empty cell to balance the layout --></td>
+  </tr>
+  <!-- FILA 6: TEXTOS (Impar) -->
+  <tr>
+    <td align="center">
+      <kbd>🚨 Danger Zone</kbd><br>
+      <sub>Duress protocol configuration • Multi-level session kill switches • Vault wiping</sub>
+    </td>
+    <td><!-- Empty cell to balance the layout --></td>
+  </tr>
 </table>
 
 </details>
+
 ---
 
 ## Architecture
