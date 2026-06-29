@@ -51,15 +51,14 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 1: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔐 Login</kbd><br>
+      <kbd>🔐 Login</kbd><br><br>
       Secure terminal access • Master password validation • AES-256-GCM
-    </td>
+      <br><br> </td>
     <td align="center">
-      <kbd>📊 Overview</kbd><br>
+      <kbd>📊 Overview</kbd><br><br>
       Operational status dashboard • Quick action menu • Recent activity feed
-    </td>
+      <br><br> </td>
   </tr>
-<br>
 
   <!-- FILA 2: IMÁGENES -->
   <tr>
