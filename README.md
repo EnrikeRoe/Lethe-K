@@ -36,7 +36,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 ---
 
 <details>
-<summary>📸 Screenshots</summary>
+<summary>##📸 Screenshots</summary>
 
 <table>
   <tr>
@@ -108,77 +108,6 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 </table>
 
 </details>
-
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="assets/login.png" alt="Login" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Login — master password entry with failed attempt counter</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/overview.png" alt="Overview" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Overview — active projects, session timer, kill switch indicator</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/new_project.png" alt="New Project" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>New Project — engagement setup with type, scope and dates</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/project.png" alt="Project View" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Project View — secrets filtered by type with masked values</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/secret.png" alt="Secret List" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Secret List — all values masked by default, copy on demand</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/project_secret.png" alt="Project Secret" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Project Detail — encrypted assets with access history per project</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/secret_detail.png" alt="Secret Detail" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Secret Detail — per-field reveal with individual eye toggle</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Hash Analyzer — algorithm auto-detection and Hashcat command generation</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/audit_log.png" alt="Audit Log" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Audit Log — immutable, filterable record of every operation</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/settings.png" alt="Settings" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Settings — session timeout, clipboard timer, kill switch configuration</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/settings_dangerzone.png" alt="Danger Zone" width="800"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Danger Zone — kill switch levels and duress password configuration</sub></td>
-  </tr>
-</table>
 
 ---
 
