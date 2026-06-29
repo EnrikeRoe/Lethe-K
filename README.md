@@ -46,7 +46,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 1: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/login.png" alt="Login" width="100%"></td>
-    <td width="50%" align="center"><img src="assets/overview.jpg" alt="Overview" width="100%"></td>
+    <td width="50%" align="center"><img src="assets/overview.png" alt="Overview" width="100%"></td>
   </tr>
   <!-- FILA 1: TEXTOS -->
   <tr>
@@ -124,14 +124,14 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
     </td>
     <td align="center">
       <kbd>⚙️ Settings</kbd><br><br>
-      Global system orchestration • Vault keys rotation • Core node variables
+      Global system orchestration • Core node variables • Session parameters
     </td>
   </tr>
 
   <!-- FILA 6: IMÁGENES (Impar) -->
   <tr>
     <td width="50%" align="center"><img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%"></td>
-    <td><!-- Celda vacía para mantener la cuadrícula --></td>
+    <td><!-- Empty cell to balance the layout --></td>
   </tr>
   <!-- FILA 6: TEXTOS (Impar) -->
   <tr>
@@ -139,7 +139,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       <kbd>🚨 Danger Zone</kbd><br><br>
       Duress protocol configuration • Multi-level session kill switches • Vault wiping
     </td>
-    <td><!-- Celda vacía para mantener la cuadrícula --></td>
+    <td><!-- Empty cell to balance the layout --></td>
   </tr>
 </table>
 
