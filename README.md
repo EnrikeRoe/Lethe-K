@@ -35,27 +35,34 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 
 ---
 
+## Screenshots
+
+<details>
+<summary>📸 View screenshots (11)</summary>
+
+<br>
+
 <table>
 <tr>
 <td width="50%" align="center">
 
 <a href="assets/login.png">
-<img src="assets/login.png" width="100%">
+<img src="assets/login.png" alt="Login" width="100%">
 </a>
 
 <br>
-<sub><b>Login</b></sub>
+<b>Login</b>
 
 </td>
 
 <td width="50%" align="center">
 
 <a href="assets/overview.png">
-<img src="assets/overview.png" width="100%">
+<img src="assets/overview.png" alt="Overview" width="100%">
 </a>
 
 <br>
-<sub><b>Overview</b></sub>
+<b>Overview</b>
 
 </td>
 </tr>
@@ -64,26 +71,117 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 <td width="50%" align="center">
 
 <a href="assets/new_project.png">
-<img src="assets/new_project.png" width="100%">
+<img src="assets/new_project.png" alt="New Project" width="100%">
 </a>
 
 <br>
-<sub><b>New Project</b></sub>
+<b>New Project</b>
 
 </td>
 
 <td width="50%" align="center">
 
 <a href="assets/project.png">
-<img src="assets/project.png" width="100%">
+<img src="assets/project.png" alt="Project View" width="100%">
 </a>
 
 <br>
-<sub><b>Project</b></sub>
+<b>Project View</b>
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" align="center">
+
+<a href="assets/secret.png">
+<img src="assets/secret.png" alt="Secret List" width="100%">
+</a>
+
+<br>
+<b>Secret List</b>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="assets/project_secret.png">
+<img src="assets/project_secret.png" alt="Project Detail" width="100%">
+</a>
+
+<br>
+<b>Project Detail</b>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<a href="assets/secret_detail.png">
+<img src="assets/secret_detail.png" alt="Secret Detail" width="100%">
+</a>
+
+<br>
+<b>Secret Detail</b>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="assets/hash_analyzer.png">
+<img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="100%">
+</a>
+
+<br>
+<b>Hash Analyzer</b>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<a href="assets/audit_log.png">
+<img src="assets/audit_log.png" alt="Audit Log" width="100%">
+</a>
+
+<br>
+<b>Audit Log</b>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="assets/settings.png">
+<img src="assets/settings.png" alt="Settings" width="100%">
+</a>
+
+<br>
+<b>Settings</b>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<a href="assets/settings_dangerzone.png">
+<img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%">
+</a>
+
+<br>
+<b>Danger Zone</b>
+
+</td>
+
+<td></td>
+</tr>
+
 </table>
+
+</details>
+
 ---
 
 ## Architecture
