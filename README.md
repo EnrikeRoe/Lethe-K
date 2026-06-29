@@ -124,7 +124,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
     </td>
     <td align="center">
       <kbd>⚙️ Settings</kbd><br><br>
-      Global system orchestration • Core node variables • Session parameters
+      Session timeout controls • Master password rotation • Duress and kill switch configuration
     </td>
   </tr>
 
