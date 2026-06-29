@@ -51,12 +51,12 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 1: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔐 Login</kbd><br>
-      <sub>Secure terminal access • Master password validation • AES-256-GCM</sub>
+      <kbd>🔐 Login</kbd><br><br>
+      Secure terminal access • Master password validation • AES-256-GCM
     </td>
     <td align="center">
-      <kbd>📊 Overview</kbd><br>
-      <sub>Operational status dashboard • Quick action menu • Recent activity feed</sub>
+      <kbd>📊 Overview</kbd><br><br>
+      Operational status dashboard • Quick action menu • Recent activity feed
     </td>
   </tr>
 
@@ -68,12 +68,12 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 2: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>✨ New Project</kbd><br>
-      <sub>Engagement vault initialization • Client, type and scope definition</sub>
+      <kbd>✨ New Project</kbd><br><br>
+      Engagement vault initialization • Client, type and scope definition
     </td>
     <td align="center">
-      <kbd>📁 Project View</kbd><br>
-      <sub>Isolated workspace • Cryptographic asset inventory • Zero-knowledge pool</sub>
+      <kbd>📁 Project View</kbd><br><br>
+      Isolated workspace • Cryptographic asset inventory • Zero-knowledge pool
     </td>
   </tr>
 
@@ -85,12 +85,12 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 3: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔑 Secret List</kbd><br>
-      <sub>Multi-field credential registry • Custom tagging • Confidentiality scoping</sub>
+      <kbd>🔑 Secret List</kbd><br><br>
+      Multi-field credential registry • Custom tagging • Confidentiality scoping
     </td>
     <td align="center">
-      <kbd>📄 Project Detail</kbd><br>
-      <sub>Granular asset management • Access control metrics • Live history tracking</sub>
+      <kbd>📄 Project Detail</kbd><br><br>
+      Granular asset management • Access control metrics • Live history tracking
     </td>
   </tr>
 
@@ -102,12 +102,12 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 4: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔍 Secret Detail</kbd><br>
-      <sub>Secure credential decryption modal • Masked fields • Access telemetry</sub>
+      <kbd>🔍 Secret Detail</kbd><br><br>
+      Secure credential decryption modal • Masked fields • Access telemetry
     </td>
     <td align="center">
-      <kbd>⚡ Hash Analyzer</kbd><br>
-      <sub>Offline cryptographic identifier • 14+ supported hash types • Instant parsing</sub>
+      <kbd>⚡ Hash Analyzer</kbd><br><br>
+      Offline cryptographic identifier • 14+ supported hash types • Instant parsing
     </td>
   </tr>
 
@@ -119,27 +119,27 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 5: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>📜 Audit Log</kbd><br>
-      <sub>Immutable live ledger feed • Security event logging • Exportable telemetry</sub>
+      <kbd>📜 Audit Log</kbd><br><br>
+      Immutable live ledger feed • Security event logging • Exportable telemetry
     </td>
     <td align="center">
-      <kbd>⚙️ Settings</kbd><br>
-      <sub>Global system orchestration • Vault keys rotation • Core node variables</sub>
+      <kbd>⚙️ Settings</kbd><br><br>
+      Global system orchestration • Vault keys rotation • Core node variables
     </td>
   </tr>
 
   <!-- FILA 6: IMÁGENES (Impar) -->
   <tr>
     <td width="50%" align="center"><img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%"></td>
-    <td><!-- Empty cell to balance the layout --></td>
+    <td><!-- Celda vacía para mantener la cuadrícula --></td>
   </tr>
   <!-- FILA 6: TEXTOS (Impar) -->
   <tr>
     <td align="center">
-      <kbd>🚨 Danger Zone</kbd><br>
-      <sub>Duress protocol configuration • Multi-level session kill switches • Vault wiping</sub>
+      <kbd>🚨 Danger Zone</kbd><br><br>
+      Duress protocol configuration • Multi-level session kill switches • Vault wiping
     </td>
-    <td><!-- Empty cell to balance the layout --></td>
+    <td><!-- Celda vacía para mantener la cuadrícula --></td>
   </tr>
 </table>
 
