@@ -51,7 +51,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 1: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔐 Login</kbd><br><br>
+      <kbd>🔐 Login</kbd><br>
       Secure terminal access • Master password validation • AES-256-GCM
     </td>
     <td align="center">
@@ -72,7 +72,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Engagement vault initialization • Client, type and scope definition
     </td>
     <td align="center">
-      <kbd>📁 Project View</kbd><br><br>
+      <kbd>📁 Project View</kbd><br>
       Isolated workspace • Cryptographic asset inventory • Zero-knowledge pool
     </td>
   </tr>
@@ -89,7 +89,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Multi-field credential registry • Custom tagging • Confidentiality scoping
     </td>
     <td align="center">
-      <kbd>📄 Project Detail</kbd><br><br>
+      <kbd>📄 Project Detail</kbd><br>
       Granular asset management • Access control metrics • Live history tracking
     </td>
   </tr>
@@ -106,7 +106,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Secure credential decryption modal • Masked fields • Access telemetry
     </td>
     <td align="center">
-      <kbd>⚡ Hash Analyzer</kbd><br><br>
+      <kbd>⚡ Hash Analyzer</kbd><br>
       Offline cryptographic identifier • 14+ supported hash types • Instant parsing
     </td>
   </tr>
@@ -123,7 +123,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Immutable live ledger feed • Security event logging • Exportable telemetry
     </td>
     <td align="center">
-      <kbd>⚙️ Settings</kbd><br><br>
+      <kbd>⚙️ Settings</kbd><br>
       Session timeout controls • Master password rotation • Duress and kill switch configuration
     </td>
   </tr>
