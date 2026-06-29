@@ -35,144 +35,89 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 
 ---
 
-## Sreenshots
+## 📸 Screenshots
 
 <details>
-<summary>📸 View screenshots (11)</summary>
+<summary><strong>👉 Click here to view screenshots (11)</strong></summary>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
-
-<a href="assets/login.png">
-<img src="assets/login.png" alt="Login" width="100%">
-</a>
-
-<br>
-<b>Login</b>
-
+  <img src="assets/login.png" alt="Login" width="100%">
+  <br><br>
+  <kbd>🔐 Login</kbd>
 </td>
 
 <td width="50%" align="center">
-
-<a href="assets/overview.png">
-<img src="assets/overview.png" alt="Overview" width="100%">
-</a>
-
-<br>
-<b>Overview</b>
-
+  <img src="assets/overview.png" alt="Overview" width="100%">
+  <br><br>
+  <kbd>📊 Overview</kbd>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-
-<a href="assets/new_project.png">
-<img src="assets/new_project.png" alt="New Project" width="100%">
-</a>
-
-<br>
-<b>New Project</b>
-
+  <img src="assets/new_project.png" alt="New Project" width="100%">
+  <br><br>
+  <kbd>✨ New Project</kbd>
 </td>
 
 <td width="50%" align="center">
-
-<a href="assets/project.png">
-<img src="assets/project.png" alt="Project View" width="100%">
-</a>
-
-<br>
-<b>Project View</b>
-
+  <img src="assets/project.png" alt="Project View" width="100%">
+  <br><br>
+  <kbd>📁 Project View</kbd>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-
-<a href="assets/secret.png">
-<img src="assets/secret.png" alt="Secret List" width="100%">
-</a>
-
-<br>
-<b>Secret List</b>
-
+  <img src="assets/secret.png" alt="Secret List" width="100%">
+  <br><br>
+  <kbd>🔑 Secret List</kbd>
 </td>
 
 <td width="50%" align="center">
-
-<a href="assets/project_secret.png">
-<img src="assets/project_secret.png" alt="Project Detail" width="100%">
-</a>
-
-<br>
-<b>Project Detail</b>
-
+  <img src="assets/project_secret.png" alt="Project Detail" width="100%">
+  <br><br>
+  <kbd>📄 Project Detail</kbd>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-
-<a href="assets/secret_detail.png">
-<img src="assets/secret_detail.png" alt="Secret Detail" width="100%">
-</a>
-
-<br>
-<b>Secret Detail</b>
-
+  <img src="assets/secret_detail.png" alt="Secret Detail" width="100%">
+  <br><br>
+  <kbd>🔍 Secret Detail</kbd>
 </td>
 
 <td width="50%" align="center">
-
-<a href="assets/hash_analyzer.png">
-<img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="100%">
-</a>
-
-<br>
-<b>Hash Analyzer</b>
-
+  <img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="100%">
+  <br><br>
+  <kbd>⚡ Hash Analyzer</kbd>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-
-<a href="assets/audit_log.png">
-<img src="assets/audit_log.png" alt="Audit Log" width="100%">
-</a>
-
-<br>
-<b>Audit Log</b>
-
+  <img src="assets/audit_log.png" alt="Audit Log" width="100%">
+  <br><br>
+  <kbd>📜 Audit Log</kbd>
 </td>
 
 <td width="50%" align="center">
-
-<a href="assets/settings.png">
-<img src="assets/settings.png" alt="Settings" width="100%">
-</a>
-
-<br>
-<b>Settings</b>
-
+  <img src="assets/settings.png" alt="Settings" width="100%">
+  <br><br>
+  <kbd>⚙️ Settings</kbd>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-
-<a href="assets/settings_dangerzone.png">
-<img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%">
-</a>
-
-<br>
-<b>Danger Zone</b>
-
+  <img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%">
+  <br><br>
+  <kbd>🚨 Danger Zone</kbd>
 </td>
 
 <td></td>
