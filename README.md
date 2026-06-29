@@ -48,12 +48,16 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <img src="assets/login.png" alt="Login" width="100%">
   <br><br>
   <kbd>🔐 Login</kbd>
+  <br>
+  <sub>Secure terminal access · Master password validation · AES-256-GCM</sub>
 </td>
 
 <td width="50%" align="center">
   <img src="assets/overview.png" alt="Overview" width="100%">
   <br><br>
   <kbd>📊 Overview</kbd>
+  <br>
+  <sub>Operational status dashboard · Quick action menu · Recent activity feed</sub>
 </td>
 </tr>
 
@@ -62,12 +66,16 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <img src="assets/new_project.png" alt="New Project" width="100%">
   <br><br>
   <kbd>✨ New Project</kbd>
+  <br>
+  <sub>Engagement vault initialization · Client, type and scope definition</sub>
 </td>
 
 <td width="50%" align="center">
   <img src="assets/project.png" alt="Project View" width="100%">
   <br><br>
   <kbd>📁 Project View</kbd>
+  <br>
+  <sub>Isolated workspace · Cryptographic asset inventory · Zero-knowledge pool</sub>
 </td>
 </tr>
 
@@ -76,12 +84,16 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <img src="assets/secret.png" alt="Secret List" width="100%">
   <br><br>
   <kbd>🔑 Secret List</kbd>
+  <br>
+  <sub>Multi-field credential registry · Custom tagging · Confidentiality scoping</sub>
 </td>
 
 <td width="50%" align="center">
   <img src="assets/project_secret.png" alt="Project Detail" width="100%">
   <br><br>
   <kbd>📄 Project Detail</kbd>
+  <br>
+  <sub>Granular asset management · Access control metrics · Live history tracking</sub>
 </td>
 </tr>
 
@@ -90,12 +102,16 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <img src="assets/secret_detail.png" alt="Secret Detail" width="100%">
   <br><br>
   <kbd>🔍 Secret Detail</kbd>
+  <br>
+  <sub>Secure credential decryption modal · Masked fields · Access telemetry</sub>
 </td>
 
 <td width="50%" align="center">
   <img src="assets/hash_analyzer.png" alt="Hash Analyzer" width="100%">
   <br><br>
   <kbd>⚡ Hash Analyzer</kbd>
+  <br>
+  <sub>Offline cryptographic identifier · 14+ supported hash types · Instant parsing</sub>
 </td>
 </tr>
 
@@ -104,12 +120,16 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <img src="assets/audit_log.png" alt="Audit Log" width="100%">
   <br><br>
   <kbd>📜 Audit Log</kbd>
+  <br>
+  <sub>Immutable live ledger feed · Security event logging · Exportable telemetry</sub>
 </td>
 
 <td width="50%" align="center">
   <img src="assets/settings.png" alt="Settings" width="100%">
   <br><br>
   <kbd>⚙️ Settings</kbd>
+  <br>
+  <sub>Global system orchestration · Vault keys rotation · Core node variables</sub>
 </td>
 </tr>
 
@@ -118,6 +138,8 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <img src="assets/settings_dangerzone.png" alt="Danger Zone" width="100%">
   <br><br>
   <kbd>🚨 Danger Zone</kbd>
+  <br>
+  <sub>Duress protocol configuration · Multi-level session kill switches · Vault wiping</sub>
 </td>
 
 <td></td>
@@ -126,7 +148,6 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 </table>
 
 </details>
-
 ---
 
 ## Architecture
