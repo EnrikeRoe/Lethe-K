@@ -59,6 +59,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Operational status dashboard • Quick action menu • Recent activity feed
     </td>
   </tr>
+  <tr></tr>
 
   <!-- FILA 2: IMÁGENES -->
   <tr>
