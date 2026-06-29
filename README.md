@@ -35,15 +35,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 
 ---
 
-╭──────────────────────────────╮
-│ ● ● ●                        │
-├──────────────────────────────┤
-│                              │
-│     ## Screenshot            │
-│                              │
-╰──────────────────────────────╯
-
-        Dashboard
+## Sreenshots
 
 <details>
 <summary>📸 View screenshots (11)</summary>
