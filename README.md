@@ -60,6 +60,8 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       </td>
   </tr>
 
+  <tr><td colspan="2"><hr></td></tr>
+
   <!-- FILA 2: IMÁGENES -->
   <tr>
     <td width="50%" align="center"><img src="assets/new_project.png" alt="New Project" width="100%"></td>
