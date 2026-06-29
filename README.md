@@ -55,7 +55,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
       Secure terminal access • Master password validation • AES-256-GCM
     </td>
     <td align="center">
-      <kbd>📊 Overview</kbd><br><br>
+      <kbd>📊 Overview</kbd><br>
       Operational status dashboard • Quick action menu • Recent activity feed
     </td>
   </tr>
@@ -68,7 +68,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 2: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>✨ New Project</kbd><br><br>
+      <kbd>✨ New Project</kbd><br>
       Engagement vault initialization • Client, type and scope definition
     </td>
     <td align="center">
@@ -85,7 +85,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 3: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔑 Secret List</kbd><br><br>
+      <kbd>🔑 Secret List</kbd><br>
       Multi-field credential registry • Custom tagging • Confidentiality scoping
     </td>
     <td align="center">
@@ -102,7 +102,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 4: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>🔍 Secret Detail</kbd><br><br>
+      <kbd>🔍 Secret Detail</kbd><br>
       Secure credential decryption modal • Masked fields • Access telemetry
     </td>
     <td align="center">
@@ -119,7 +119,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 5: TEXTOS -->
   <tr>
     <td align="center">
-      <kbd>📜 Audit Log</kbd><br><br>
+      <kbd>📜 Audit Log</kbd><br>
       Immutable live ledger feed • Security event logging • Exportable telemetry
     </td>
     <td align="center">
@@ -136,7 +136,7 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
   <!-- FILA 6: TEXTOS (Impar) -->
   <tr>
     <td align="center">
-      <kbd>🚨 Danger Zone</kbd><br><br>
+      <kbd>🚨 Danger Zone</kbd><br>
       Duress protocol configuration • Multi-level session kill switches • Vault wiping
     </td>
     <td><!-- Empty cell to balance the layout --></td>
