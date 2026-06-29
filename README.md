@@ -35,21 +35,196 @@ Lethe-K is not a general-purpose password manager. It is built specifically for 
 
 ---
 
+
 ## 📸 Screenshots
 
 <details>
 <summary><strong>👉 Click here to view screenshots (11)</strong></summary>
 
-| | |
-| :---: | :---: |
-| ![Login](assets/login.png)<br><br><kbd>🔐 Login</kbd> | ![Overview](assets/overview.png)<br><br><kbd>📊 Overview</kbd> |
-| ![New Project](assets/new_project.png)<br><br><kbd>✨ New Project</kbd> | ![Project View](assets/project.png)<br><br><kbd>📁 Project View</kbd> |
-| ![Secret List](assets/secret.png)<br><br><kbd>🔑 Secret List</kbd> | ![Project Detail](assets/project_secret.png)<br><br><kbd>📄 Project Detail</kbd> |
-| ![Secret Detail](assets/secret_detail.png)<br><br><kbd>🔍 Secret Detail</kbd> | ![Hash Analyzer](assets/hash_analyzer.png)<br><br><kbd>⚡ Hash Analyzer</kbd> |
-| ![Audit Log](assets/audit_log.png)<br><br><kbd>📜 Audit Log</kbd> | ![Settings](assets/settings.png)<br><br><kbd>⚙️ Settings</kbd> |
-| ![Danger Zone](assets/settings_dangerzone.png)<br><br><kbd>🚨 Danger Zone</kbd> | |
+<br>
+
+<!-- Estilos CSS para el modal y galería -->
+<style>
+  .screenshot-gallery img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  .screenshot-gallery img:hover {
+    transform: scale(1.02);
+  }
+  
+  /* Modal */
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.9);
+    justify-content: center;
+    align-items: center;
+  }
+  .modal.active {
+    display: flex;
+  }
+  .modal img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+  }
+  .modal-close {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  .modal-close:hover {
+    color: #ccc;
+  }
+  .modal-caption {
+    position: absolute;
+    bottom: 30px;
+    color: #fff;
+    font-size: 16px;
+    background: rgba(0,0,0,0.6);
+    padding: 8px 16px;
+    border-radius: 20px;
+  }
+</style>
+
+<div class="screenshot-gallery">
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="assets/login.png" alt="Login" onclick="openModal(this.src, '🔐 Login')">
+  <br><br>
+  <kbd>🔐 Login</kbd>
+</td>
+
+<td width="50%" align="center">
+  <img src="assets/overview.png" alt="Overview" onclick="openModal(this.src, '📊 Overview')">
+  <br><br>
+  <kbd>📊 Overview</kbd>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="assets/new_project.png" alt="New Project" onclick="openModal(this.src, '✨ New Project')">
+  <br><br>
+  <kbd>✨ New Project</kbd>
+</td>
+
+<td width="50%" align="center">
+  <img src="assets/project.png" alt="Project View" onclick="openModal(this.src, '📁 Project View')">
+  <br><br>
+  <kbd>📁 Project View</kbd>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="assets/secret.png" alt="Secret List" onclick="openModal(this.src, '🔑 Secret List')">
+  <br><br>
+  <kbd>🔑 Secret List</kbd>
+</td>
+
+<td width="50%" align="center">
+  <img src="assets/project_secret.png" alt="Project Detail" onclick="openModal(this.src, '📄 Project Detail')">
+  <br><br>
+  <kbd>📄 Project Detail</kbd>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="assets/secret_detail.png" alt="Secret Detail" onclick="openModal(this.src, '🔍 Secret Detail')">
+  <br><br>
+  <kbd>🔍 Secret Detail</kbd>
+</td>
+
+<td width="50%" align="center">
+  <img src="assets/hash_analyzer.png" alt="Hash Analyzer" onclick="openModal(this.src, '⚡ Hash Analyzer')">
+  <br><br>
+  <kbd>⚡ Hash Analyzer</kbd>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="assets/audit_log.png" alt="Audit Log" onclick="openModal(this.src, '📜 Audit Log')">
+  <br><br>
+  <kbd>📜 Audit Log</kbd>
+</td>
+
+<td width="50%" align="center">
+  <img src="assets/settings.png" alt="Settings" onclick="openModal(this.src, '⚙️ Settings')">
+  <br><br>
+  <kbd>⚙️ Settings</kbd>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="assets/settings_dangerzone.png" alt="Danger Zone" onclick="openModal(this.src, '🚨 Danger Zone')">
+  <br><br>
+  <kbd>🚨 Danger Zone</kbd>
+</td>
+
+<td></td>
+</tr>
+
+</table>
+</div>
+
+<!-- Modal para vista previa -->
+<div id="imageModal" class="modal" onclick="closeModal()">
+  <span class="modal-close">&times;</span>
+  <img id="modalImage" src="">
+  <div class="modal-caption" id="modalCaption"></div>
+</div>
+
+<script>
+  function openModal(src, caption) {
+    document.getElementById('imageModal').classList.add('active');
+    document.getElementById('modalImage').src = src;
+    document.getElementById('modalCaption').textContent = caption;
+    // Prevenir scroll del body
+    document.body.style.overflow = 'hidden';
+  }
+  
+  function closeModal() {
+    document.getElementById('imageModal').classList.remove('active');
+    // Restaurar scroll del body
+    document.body.style.overflow = 'auto';
+  }
+  
+  // Cerrar con tecla ESC
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      closeModal();
+    }
+  });
+  
+  // Evitar que el click en la imagen cierre el modal
+  document.getElementById('modalImage').addEventListener('click', function(e) {
+    e.stopPropagation();
+  });
+</script>
 
 </details>
+
 
 
 ## 📸 Screenshots
